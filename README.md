@@ -11,3 +11,6 @@ showcase the potential of deep learning in accurately classifying bird species b
 their images. It could have significant implications in the field of conservation, where 
 accurate identification of species is crucial for their protection and preservation.
 I used Python and popular deep learning libraries such as TensorFlow and Keras to implement the CNN model. The model's performance was evaluated using various metrics such as accuracy, precision, recall, and F1 score.
+
+
+For dataset please contact me at *pulkitsinghshakya@gmail.com*
